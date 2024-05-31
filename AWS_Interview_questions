@@ -1,0 +1,11 @@
+1.VPC in secure way
+  Stands for virtual private cloud where we can manage our application securely in public cloud environment.
+
+2.IAM
+  IAM stands for Identity & Access Management, which lets you create users, groups and roles. are attached a policy, policy is a json document which defines what permissions
+  should be given to users, groups or roles.
+
+3.How do we secure sensitive information such as API Keys, passwords and other credentials in a CI/CD pipelines on AWS.
+  By using Secret manager or paramater store we can store sensitive information and we can access when ever it needed by using IAM roles for CI/CD
+
+4.
